@@ -4,4 +4,5 @@ This is a script that combines 2 of my scripts for RGB typing and RGB cursor tra
 THIS REQUIRES A SCRIPT MANAGER LIKE TAMPERMONKEY OR VIOLENTMONKEY
 
 Github: https://github.com/jyoeymama
+
 My Website: https://jyoeymama.github.io/My-Bio-Website/
